@@ -1,0 +1,12 @@
+.env
+encryptedKey.json
+node_modules
+yarn.lock
+SimplePoll_sol_SimplePoll.abi
+SimplePoll_sol_SimplePoll.bin
+SimplePoll_sol_Input.json
+SimplePoll_sol_Output.json
+SimpleStorage_sol_SimpleStorage.abi
+SimpleStorage_sol_SimpleStorage.bin
+SimpleStorage_sol_Input.json
+SimpleStorage_sol_Output.json

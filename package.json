@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "ethers": "^6.15.0",
+    "fs-extra": "^11.3.0",
+    "solc": "^0.8.30"
+  },
+  "scripts": {
+    "compile": "node compile.js"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
